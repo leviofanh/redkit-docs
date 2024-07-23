@@ -60,7 +60,7 @@
 * [Terrain Tool](level-design/terrain-tool.md)
 * [Assets](level-design/assets/README.md)
   * [Texures](level-design/assets/texures.md)
-  * [Meshes](level-design/assets/meshes.md)
+  * [Meshes](level-design/assets/meshes/README.md)
     * [Дистанция прорисовки](level-design/assets/meshes/render-distance.md)
 
 ## Quests
