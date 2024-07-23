@@ -61,6 +61,7 @@
 * [Assets](level-design/assets/README.md)
   * [Texures](level-design/assets/texures.md)
   * [Meshes](level-design/assets/meshes.md)
+    * [Дистанция прорисовки](level-design/assets/meshes/render-distance.md)
 
 ## Quests
 
