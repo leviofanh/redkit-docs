@@ -66,19 +66,10 @@
 
 ## Quests
 
-* [General](quests/general.md)
-* [Editor](quests/editor/README.md)
-  * [Nodes](quests/editor/nodes/README.md)
-    * [Hide/Show layers](quests/editor/nodes/hide-show-layers.md)
-  * [UseCases](quests/editor/usecases.md)
-* [Phases](quests/phases.md)
-* [Clues](quests/clues.md)
-* [Entities](quests/entities.md)
-* [Types](quests/types/README.md)
-  * [Mini Games](quests/types/mini-games.md)
-  * [Monster Hunt](quests/types/monster-hunt.md)
-  * [Treasure Hunt](quests/types/treasure-hunt.md)
-  * [Generic](quests/types/generic.md)
+* [Основное](quests/general.md)
+* [Редактор квестов](quests/editor.md)
+* [Блоки/узлы](quests/nodes.md)
+* [Добавление квеста в проект DLC](quests/dlc_quest.md)
 
 ## Scripting
 
