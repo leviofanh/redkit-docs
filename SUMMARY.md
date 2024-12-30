@@ -19,13 +19,13 @@
 * [Action Point](gameplay/action-point/README.md)
   * [Job Tree](gameplay/action-point/job-tree.md)
 * [GUI](gameplay/gui/README.md)
-    * [User GUI](gameplay/gui/user-gui.md)
-    * [Map](gameplay/gui/map.md)
-    * [Map Pins](gameplay/gui/map-pins.md)
-    * [Map Encounters](gameplay/gui/map-encounters.md)
-    * [Mini Map](gameplay/gui/mini-map.md)
-    * [Universe Map](gameplay/gui/universe-map.md)
-    * [Interior Map](gameplay/gui/interior-map.md)
+  * [User GUI](gameplay/gui/user-gui.md)
+  * [Map](gameplay/gui/map.md)
+  * [Map Pins](gameplay/gui/map-pins.md)
+  * [Map Encounters](gameplay/gui/map-encounters.md)
+  * [Mini Map](gameplay/gui/mini-map.md)
+  * [Universe Map](gameplay/gui/universe-map.md)
+  * [Interior Map](gameplay/gui/interior-map.md)
 * [Stash](gameplay/stash.md)
 * [Facts](gameplay/facts.md)
 * [Community](gameplay/community/README.md)
@@ -96,11 +96,13 @@
 * [Journal Editor](tools/journal-editor.md)
 * [Scripts Editor](tools/scripts-editor.md)
 * [Minimap Generator](tools/minimap-generator.md)
+* [Сторонние утилиты](tools/storonnie-utility/README.md)
+  * [Iris](tools/storonnie-utility/iris.md)
 
 ## Материалы
 
 * [Материалы](materialy/materialy/README.md)
-  * [transperent\_reflective](materialy/materialy/transperent\_reflective.md)
+  * [transperent\_reflective](materialy/materialy/transperent_reflective.md)
 
 ## Links
 
