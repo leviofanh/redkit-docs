@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Добро пожаловать!](README.md)
-* [Установка Redkit 3](ustanovka-redkit-3.md)
 * [Editor](editor/README.md)
   * [Interface](editor/interface.md)
   * [World](editor/world.md)
